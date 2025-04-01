@@ -1,1 +1,1 @@
-A Draw.io examples of logic gatees with truth tables
+A Draw.io examples of logic gates with truth tables
